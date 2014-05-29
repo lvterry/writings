@@ -12,7 +12,7 @@
 
 另外作为轻松的入门读物，《[写给大家看的设计书](http://book.douban.com/subject/3323633/)》是个不错的选择。还可以读一下Don Norman的两本书：《[设计心理学](http://book.douban.com/subject/4606471/)》和《[情感化设计](http://book.douban.com/subject/1314262/)》。
 
-如果是关注在Web设计方面，可以看Steven Krug的[Don't Make Me Think](http://book.douban.com/subject/1827702/)。
+如果关注Web设计，还可以看Steven Krug的[Don't Make Me Think](http://book.douban.com/subject/1827702/)。
 
 ## 界面的基本组成元素
 平时浏览各个网站或使用网络服务时，注意观察其对界面基本元素的使用，比如按钮、颜色、字体排版、对齐、留白等等。
@@ -63,4 +63,4 @@ Douglas Martin said:
 
 演讲
 
-- **Inventing on Principle** by Bret Victor ・ [Youku](http://v.youku.com/v_show/id_XMzUzMDIzNjUy.html) ・ [Vimeo](http://vimeo.com/36579366)
+- **Invent on Principle** by Bret Victor ・ [Youku](http://v.youku.com/v_show/id_XMzUzMDIzNjUy.html) ・ [Vimeo](http://vimeo.com/36579366)
