@@ -51,3 +51,14 @@ Bret Victor's talk: Inventing on Principle [Youku](http://v.youku.com/v_show/id_
 Douglas Martin said:
 
 > Questions about whether design is necessary or affordable are quite beside the point: design is inevitable. The alternative to good design is bad design, not no design at all.
+
+## Inspirations
+图书
+
+- [*The Visual Display of Quantitative Information*](http://book.douban.com/subject/1316642/) by Edward Tufte
+- [*Notes on the Synthesis of Form*](http://book.douban.com/subject/1742456/) by Christopher Alexander
+- [*Designing Visual Interfaces*](http://book.douban.com/subject/1478928/) by Kevin Mullet and Darrell Sano 
+- [设计中的设计](http://book.douban.com/subject/1941558/) by 原研哉
+- [*The Elements of Style*](http://book.douban.com/subject/1433835/) by William Strunk Jr. and E.B. White (This is a book about writing but highly relevant to interface design)
+- *Getting Real* by the guys at [Basecamp](http://www.basecamp.com). Download a free PDF copy [here](https://basecamp.com/books/Getting%20Real.pdf).
+- [失控](http://book.douban.com/subject/5375620/) by Kevin Kelly
