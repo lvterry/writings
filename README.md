@@ -1,2 +1,1 @@
-writings
-========
+Some of my essays
