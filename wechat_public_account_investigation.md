@@ -3,10 +3,13 @@
 
 微信好友发送给我们的消息里如果包含某个网页地址，一般为显示成下面两种格式。
 
-1. 当好友直接通过屏幕底部的输入框输入一个链接时，会显示成普通链接。
-![image](http://com.wangyazhou.assets.s3.amazonaws.com/url01.png)
-2. 当好友在微信里浏览过某个网页，并通过右上角的“发送给好友”功能发给我们时，链接会显示成下面这样。它有了一个标题、缩略图和网页里的一部分内容。
-![image](http://com.wangyazhou.assets.s3.amazonaws.com/url02.png)
+- 当好友直接通过屏幕底部的输入框输入一个链接时，会显示成普通链接。
+  
+  ![image](http://com.wangyazhou.assets.s3.amazonaws.com/url01.png)
+
+- 当好友在微信里浏览过某个网页，并通过右上角的“发送给好友”功能发给我们时，链接会显示成下面这样。它有了一个标题、缩略图和网页里的一部分内容。
+  
+  ![image](http://com.wangyazhou.assets.s3.amazonaws.com/url02.png)
 
 对于收到消息的人来说，点击两者的效果是相同的，都会在微信内置的浏览器打开这个网页。同时，右上角出现了一个“分享”按钮方便转发到朋友圈或发送给好友。
 
