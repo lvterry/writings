@@ -5,11 +5,11 @@
 
 - 当好友直接通过屏幕底部的输入框输入一个链接时，会显示成普通链接。
   
-  ![image](http://com.wangyazhou.assets.s3.amazonaws.com/url01.png)
+  ![image](https://dl.dropboxusercontent.com/u/1474794/assets/url01.png)
 
 - 当好友在微信里浏览过某个网页，并通过右上角的“发送给好友”功能发给我们时，链接会显示成下面这样。它有了一个标题、缩略图和网页里的一部分内容。
   
-  ![image](http://com.wangyazhou.assets.s3.amazonaws.com/url02.png)
+  ![image](https://dl.dropboxusercontent.com/u/1474794/assets/url02.png)
 
 对于收到消息的人来说，点击两者的效果是相同的，都会在微信内置的浏览器打开这个网页。同时，右上角出现了一个“分享”按钮方便转发到朋友圈或发送给好友。
 
@@ -17,13 +17,13 @@
 
 要实现我们想要的效果，我们开发这样一个网页，然后让用户在微信里打开即可。但是通过微信公众号无法直接将群发的消息链接到某一个网页，因为微信公众号系统里编辑群发消息的编辑器不允许插入URL链接。
 
-![image](http://com.wangyazhou.assets.s3.amazonaws.com/weixin_editor.png)
+![image](https://dl.dropboxusercontent.com/u/1474794/assets/weixin_editor.png)
 
 一个办法是可以在群发消息里添加“原文链接”。这样用户收到的群发消息左下角会出现一个“阅读原文”的链接，这个链接可以链接到任意的网址。
 
 但这个链接太过隐蔽，必须要在消息正文里引导用户去点击它。
 
-![image](http://com.wangyazhou.assets.s3.amazonaws.com/link.png)
+![image](https://dl.dropboxusercontent.com/u/1474794/assets/link.png)
 
 
 ## 群发消息的限制
