@@ -1,6 +1,8 @@
-Angular Tips
+# Angular Tips
 
-# Parent scope
+To record the things I learned when using AngularJS to make prototypes.
+
+### Parent scope
 
 One requirement today is to show a list of employees to the user and allow the user to select one of them and perform some action. I have the list of employees data defined in the controller like this:
 ```javascript
