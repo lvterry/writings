@@ -40,7 +40,8 @@ I googled a bit but was struggling how to phrase the question. Suddenly, from my
 </tr>
 ```
 
-### `ng-class`
+### ng-class
+
 I have three classes for a button in my HTML. As follows.
 ```html
 <a href="#" class="button button-primary button-small">Edit</a>
@@ -56,3 +57,18 @@ Then I realize a HTML element can only take one ```class``` attribute. I had to 
 <a href="#" ng-class="{ 'button button-primary button-small': true, 'button-disabled': isItemEditable }">Edit</a>
 ```
 Seems a bit counter-intuitive, isn't it?
+
+### Focus a text input
+
+When user clicks a button, I want to clear the text input field and put the cursor into it. I thought `ng-focus` is for this so I wrote the following code:
+```html
+<button ng-click="clearText()">Clear Text</button>
+<input type="text" ng-model="url" ng-focus="shouldClearText">
+```
+```javascript
+$scope.clearText = function() {
+  $scope.url = '';
+  $scope.shouldClearText = true;
+}
+```
+Again, it does not work. `ng-focus` is used to execute the expression once the user puts her cursor into the text field. Googled a bit for solution. Turns out there's no easy way to do it. But people already came up with [solutions](http://www.emberex.com/programmatically-setting-focus-angularjs-way/) by using Angular custom directive.
