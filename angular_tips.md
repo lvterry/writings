@@ -1,4 +1,4 @@
-# Angular Tips
+# AngularJS Tips
 
 To record the things I learned when using AngularJS to make prototypes.
 
@@ -28,7 +28,9 @@ I want to give `tr` a conditional CSS class when the radio button inside it is c
 ```
 But it does not work.
 
-Check a radio button will make the row highlighted but checking another radio button won't make the previous highlight disappear, even the radio button inside that is unchecked already. I googled a bit but was struggling how to phrase the question. Suddenly, from my Chrome dev tools, I saw Angular created nested scopes for `ng-repeat` — each row has its own scope, modifying `selected` in one row won't affect the value of it in other rows. I needed the model `selected` on a higher level. Luckily, all these scopes have a common parent. So instead of saying `ng-model="selected"`, we'll say `ng-model="$parent.selected"`. The completed code looks like the following:
+Checking a radio button will make the row highlighted but checking another radio button won't make the previous highlight go away.
+
+I googled a bit but was struggling how to phrase the question. Suddenly, from my Chrome dev tools, I saw Angular created nested scopes for `ng-repeat` — each row has its own scope, modifying `selected` in one row won't affect the value of it in other rows. I needed the model `selected` on a higher level. Luckily, all these scopes have a common parent. So instead of saying `ng-model="selected"`, we'll say `ng-model="$parent.selected"`. The completed code looks like the following:
 ```html
 <tr ng-repeat="e in employees" ng-class="{ selected: $parent.selected }">
   <td><input type="radio" value="{{ e.name }}" name="employee" ng-model="$parent.selected"></td>
