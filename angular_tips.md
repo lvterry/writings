@@ -71,4 +71,6 @@ $scope.clearText = function() {
   $scope.shouldClearText = true;
 }
 ```
-Again, it does not work. `ng-focus` is used to execute the expression once the user puts her cursor into the text field. Googled a bit for solution. Turns out there's no easy way to do it. But people already came up with [solutions](http://www.emberex.com/programmatically-setting-focus-angularjs-way/) by using Angular custom directive.
+Again, it does not work. `ng-focus` is used to execute the expression once the user puts her cursor into the text field.
+
+It turns out there's no easy way to do it. But people already wrote custom Angular directives to do it. [Here is a nice one](http://www.emberex.com/programmatically-setting-focus-angularjs-way/).
