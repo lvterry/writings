@@ -39,3 +39,20 @@ I googled a bit but was struggling how to phrase the question. Suddenly, from my
   <td>{{ e.title }}</td>
 </tr>
 ```
+
+### `ng-class`
+I have three classes for a button in my HTML. As follows.
+```html
+<a href="#" class="button button-primary button-small">Edit</a>
+```
+I want to add a ```button-disabled``` class to it under some conditions. I started with the following:
+```html
+<a href="#" class="button button-primary button-small" ng-class="{ 'button-disabled': isItemEditable }">Edit</a>
+```
+It does not work.
+
+Then I realize a HTML element can only take one ```class``` attribute. I had to write the code in the following way:
+```html
+<a href="#" ng-class="{ 'button button-primary button-small': true, 'button-disabled': isItemEditable }">Edit</a>
+```
+Seems a bit counter-intuitive, isn't it?
