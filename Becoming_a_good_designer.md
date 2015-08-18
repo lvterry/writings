@@ -60,6 +60,7 @@ Douglas Martin said:
 - [The Elements of Style](http://book.douban.com/subject/1433835/) by William Strunk Jr. and E.B. White (This is a book about writing but highly relevant to interface design)
 - [Getting Real](https://basecamp.com/books/Getting%20Real.pdf) by [Basecamp](http://www.basecamp.com).
 - [Just Enough Research](http://abookapart.com/products/just-enough-research) by Erik Hall
+- [The Shape of Design](http://shapeofdesignbook.com/) by Frank Chimero
 
 演讲
 
