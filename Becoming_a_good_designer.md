@@ -51,18 +51,18 @@ Douglas Martin said:
 > Questions about whether design is necessary or affordable are quite beside the point: design is inevitable. The alternative to good design is bad design, not no design at all.
 
 ## Inspirations
-图书
+Books
 
 - [The Visual Display of Quantitative Information](http://book.douban.com/subject/1316642/) by Edward Tufte
 - [Notes on the Synthesis of Form](http://book.douban.com/subject/1742456/) by Christopher Alexander
 - [Designing Visual Interfaces](http://book.douban.com/subject/1478928/) by Kevin Mullet and Darrell Sano 
 - [设计中的设计](http://book.douban.com/subject/1941558/) by 原研哉
-- [The Elements of Style](http://book.douban.com/subject/1433835/) by William Strunk Jr. and E.B. White (This is a book about writing but highly relevant to interface design)
-- [Getting Real](https://basecamp.com/books/Getting%20Real.pdf) by [Basecamp](http://www.basecamp.com).
+- [The Elements of Style](http://book.douban.com/subject/1433835/) by William Strunk Jr. and E.B. White
+- [Getting Real](https://basecamp.com/books/Getting%20Real.pdf) by [Basecamp](http://www.basecamp.com)
 - [Just Enough Research](http://abookapart.com/products/just-enough-research) by Erik Hall
 - [The Shape of Design](http://shapeofdesignbook.com/) by Frank Chimero
 
-演讲
+Talks
 
 - **Invent on Principle** by Bret Victor ・ [Youku](http://v.youku.com/v_show/id_XMzUzMDIzNjUy.html) ・ [Vimeo](http://vimeo.com/36579366)
 - [Ryan Singer's Product Development Tools](https://signalvnoise.com/posts/3914-video-ryan-teaches-product-management-at-mind-the-product-in-san-francisco)
