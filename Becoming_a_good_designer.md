@@ -25,10 +25,6 @@
 ## 工具
 通常来说，视觉设计师使用 Photoshop, Illustrator, Sketch 等图形绘制工具。交互设计师使用 PowerPoint, Visio, Axure, HTML/CSS 等。个人风格不同，偏好使用的工具也不同。花些时间掌握你的工具，它们是你每天工作的基础。
 
-下图是交互设计师常常制作的线框图（Wireframe）
-
-![Wireframe](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Profilewireframe.png/220px-Profilewireframe.png)
-
 ## 设计方法
 有许多设计方法可以帮助设计师了解需求或进行设计，如焦点小组(Focus group)、卡片分类法(card sorting)、可用性测试(usabilty test)、用户访谈(interview)等。如果你想了解，可以参考 [About Face](http://book.douban.com/subject/3279105/)这本书.
 
