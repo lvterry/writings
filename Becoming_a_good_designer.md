@@ -26,7 +26,7 @@
 通常来说，视觉设计师使用 Photoshop, Illustrator, Sketch 等图形绘制工具。交互设计师使用 PowerPoint, Visio, Axure, HTML/CSS 等。个人风格不同，偏好使用的工具也不同。花些时间掌握你的工具，它们是你每天工作的基础。
 
 ## 设计方法
-有许多设计方法可以帮助设计师了解需求或进行设计，如焦点小组(Focus group)、卡片分类法(card sorting)、可用性测试(usabilty test)、用户访谈(interview)等。如果你想了解，可以参考 [About Face](http://book.douban.com/subject/3279105/)这本书.
+有许多设计方法可以帮助设计师了解需求或进行设计，如焦点小组(Focus group)、卡片分类法(card sorting)、可用性测试(usabilty test)、用户访谈(interview)等。如果你想了解，可以参考 [About Face](http://book.douban.com/subject/3279105/) 这本书.
 
 ## 设计哲学
 经过长时间的设计之后，慢慢总结出自己的设计哲学。所谓“设计哲学”，不一定很虚，能形成自己的风格是软件设计里偏「艺术」的一面。
