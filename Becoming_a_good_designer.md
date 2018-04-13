@@ -62,3 +62,4 @@ Talks
 
 - **Invent on Principle** by Bret Victor ・ [Youku](http://v.youku.com/v_show/id_XMzUzMDIzNjUy.html) ・ [Vimeo](http://vimeo.com/36579366)
 - [Ryan Singer's Product Development Tools](https://signalvnoise.com/posts/3914-video-ryan-teaches-product-management-at-mind-the-product-in-san-francisco)
+- [柳冠中谈设计：中国的设计徘徊不前，是因为设计师脑子里有道墙](http://www.bilibili.com/video/av21590910?from=search&seid=15815584021455347684)
