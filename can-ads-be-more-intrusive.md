@@ -15,7 +15,7 @@ A slightly different pattern is **modal Ads**. It pops out right after user open
 
 Both patterns block users from using the app. Quite intrusive.
 
-For a long time, I can't figure out why people do this from a design perspective. Shouldn't we let the users in as fast as we can? Why can we should these ads later, or even embed ads into content. (Actually many western products do this such as Twitter and Facebook)
+For a long time, I can't figure out why people do this from a design perspective. Shouldn't we let the users in as fast as we can? Why can we should these ads later, or even embed ads into content. Actually many western products do this such as Twitter and Facebook.
 
 Until I saw [this talk](https://a16z.com/2018/12/05/connie-chan-advertising-models-content-product-china/) from Connie Chan at a16z Summit.
 
@@ -23,9 +23,9 @@ She was talking about being creative in business models. And she mentioned two t
 1. On a small screen, display ads have limited space to display.
 2. On a small screen, people have lower tolerance about ads, especially while they're in the middle of accomplishing something with the app.
 
-Western apps choose to melt ads INTO content itself, especially in content heavy or feed-centered apps. Ads are designed almost the same as real content to make them less intrusive. Chinese apps choose to intentionally leave them outside of the content.
+Western apps choose to melt ads INTO content itself, especially in content heavy or feed-centered apps. Ads are designed almost the same as real content to make them less intrusive. Chinese apps choose to intentionally leave them OUTSIDE of the content.
 
-To put it in another way, these apps aggressively find other Ad slots which are both bigger in size (full screen) and impossible to ignore. Think about TV commercials before our favorite TV show starts.
+To put it another way, these apps aggressively find other Ad slots which are both bigger in size (full screen) and impossible to ignore. Think about TV commercials before our favorite TV show starts.
 
 I used to hate these ads a lot. Recently I started to pay attention to them and do tap on them occasionally. Maybe the apps learned my behavior and started to show more relevant ads. Maybe the designs got better and more effective on luring users to tap. 
 
