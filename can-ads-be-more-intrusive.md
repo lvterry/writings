@@ -27,6 +27,6 @@ Western apps choose to melt ads INTO content itself, especially in content heavy
 
 To put it another way, these apps aggressively find other Ad slots which are both bigger in size (full screen) and impossible to ignore. Think about TV commercials before our favorite TV show starts.
 
-I used to hate these ads a lot. Recently I started to pay attention to them and do tap on them occasionally. Maybe the apps learned my behavior and started to show more relevant ads. Maybe the designs got better and more effective on luring users to tap. 
+I used to hate these Ads a lot. Recently I started to pay attention to them and do tap on them occasionally. Maybe these apps learned my behavior and started to show more relevant Ads. Maybe the designs got more effective on luring users to tap. 
 
 Maybe they're not that bad after all. 
