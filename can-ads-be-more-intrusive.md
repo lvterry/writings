@@ -17,6 +17,8 @@ Both patterns block users from using the app. Quite intrusive.
 
 For a long time, I can't figure out why people do this from a design perspective. Shouldn't we let the users in as fast as we can? Why can we should these ads later, or even embed ads into content. Actually many western products do this such as Twitter and Facebook.
 
+![](https://general-1258275882.cos.ap-chengdu.myqcloud.com/twitter-fb-ads.png)
+
 Until I saw [this talk](https://a16z.com/2018/12/05/connie-chan-advertising-models-content-product-china/) from Connie Chan at a16z Summit.
 
 She was talking about being creative in business models. And she mentioned two things in the talk:
