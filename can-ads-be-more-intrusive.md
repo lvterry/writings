@@ -1,4 +1,4 @@
-# Can Ads be more intrusive?
+# Can Ads be more intrusive
 
 Chinese popular apps have a common design pattern: show full screen, visually attracting ads during app startup. The pattern is usually called **splash screen Ads** by product managers and designers here. Mainly used for brand marketing and campaigns.
 
