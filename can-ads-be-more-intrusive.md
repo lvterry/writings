@@ -27,7 +27,7 @@ She was talking about being creative in business models. And she mentioned two t
 
 Western apps choose to melt ads INTO content itself, especially in content heavy or feed-centered apps. Ads are designed almost the same as real content to make them less intrusive. Chinese apps choose to intentionally leave them OUTSIDE of the content.
 
-To put it another way, these apps aggressively find other Ad slots which are both bigger in size (full screen) and impossible to ignore. Think about TV commercials before our favorite TV show starts.
+To put it another way, these apps aggressively find other Ad slots which are both bigger in size (full screen) and impossible to ignore. (Think about TV commercials before our favorite TV show starts.) In return, these apps try not to show lots of ads inside content.
 
 I used to hate these Ads a lot. Recently I started to pay attention to them and do tap on them occasionally. Maybe these apps learned my behavior and started to show more relevant Ads. Maybe the designs got more effective on luring users to tap. 
 
